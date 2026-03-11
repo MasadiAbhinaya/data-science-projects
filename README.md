@@ -1,25 +1,32 @@
-# Data Science Projects
+# Hi, I'm Abhinaya 👋
+**Aspiring Data Scientist | Python | Machine Learning | Data Analysis**
 
-Hi, I'm Abhinaya 👋
-
-This repository contains my data science projects and practice work using Python.
+---
 
 ## Skills
-- Python
-- Data Analysis
-- Data Visualization
-- Machine Learning
+- **Languages:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Areas:** Data Analysis, Data Visualization, Machine Learning
 
-## Libraries Used
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+---
 
 ## Projects
-1. Sales Data Analysis
-2. Data Visualization using Python
-3. Machine Learning Prediction Model
 
-I will keep adding more projects as I continue learning data science.
+### 1. Sales Data Analysis
+- Cleaned and analyzed sales data
+- Created visualizations for insights
+- [Repository Folder](sales-data-analysis)
+
+### 2. Data Visualization Project
+- Visualized datasets using Matplotlib and Seaborn
+- Learned plotting and insights extraction
+
+### 3. Machine Learning Prediction Model
+- Built simple regression models
+- Predicted trends using Scikit-learn
+
+---
+
+## Contact
+- Email: your-email@example.com
+- GitHub: [MasadiAbhinaya](https://github.com/MasadiAbhinaya)
